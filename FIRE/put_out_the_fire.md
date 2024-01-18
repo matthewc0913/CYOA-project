@@ -1,3 +1,5 @@
+# Close Call
+
 Your suit cools off and you are safe.
 
 ---
