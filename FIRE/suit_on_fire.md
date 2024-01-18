@@ -1,0 +1,11 @@
+Your suit gets on fire while saving someone.
+
+---
+
+What will you do?
+
+[Put the fire out]()
+
+or
+
+[Keep it on fire]
