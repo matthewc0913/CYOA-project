@@ -3,4 +3,4 @@ You are a famous superhero who just woke up to breaking news. The top 2 are ther
 
 [Go to the Bank Robbery.](bank-robbers/deadlyrobbers.md)
 
-[Go to the Fire.](FIRE/suit_is_on_fire.md)
+[Go to the Fire.](FIRE/suit_on_fire.md)
