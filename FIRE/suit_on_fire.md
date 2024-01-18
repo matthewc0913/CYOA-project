@@ -8,4 +8,4 @@ What will you do?
 
 or
 
-[Keep it on fire](keep._it_on_fire.md)
+[Keep it on fire](keep_it_on_fire.md)
