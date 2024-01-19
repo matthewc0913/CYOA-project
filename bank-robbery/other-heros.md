@@ -3,4 +3,6 @@ Looks like your call worked, and you all defeat the robbers together, and they a
 
 ---
 
+**You have good friends**
+
 [Go to sleep and wait for the next day.](../breakingnews.md)
