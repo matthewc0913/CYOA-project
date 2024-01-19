@@ -1,6 +1,8 @@
-You thold truth and owned up to your actions.
+# Own up and tell the truth
 
-People accept you being there hero and make your new suit
+You told truth and owned up to your actions.
+
+People accept you being there hero and make your new suit.
 
 ---
 
