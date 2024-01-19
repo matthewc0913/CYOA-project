@@ -8,6 +8,5 @@ Your enemies find you without your suit and when you are not paying attention th
 
 **Worst possible ending, better luck next time**
 
-Start Over for more endings.
 
 [Start Over](../breakingnews.md)
