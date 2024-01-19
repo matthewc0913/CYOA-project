@@ -3,6 +3,6 @@ Well, the robbers take you hostage, but you're a superhero. So, with the strengt
 
 ---
 
-**No reason to fight while hurt**
+**No reason to fight while hurt. You heal and rest for tomorrow.**
 
-[Heal and rest for the next day.](../breakingnews.md)
+[Start Over](../breakingnews.md)
