@@ -1,3 +1,5 @@
+# Put the fire out
+
 Your suit cools off and you are safe.
 
 ---
