@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # It's on fire
 =======
 # Ahh! 
->>>>>>> 76d3aa067a470930903772bb1e6399fe0663c4d5
 
 Your suit gets on fire while saving someone.
 
