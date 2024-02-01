@@ -5,3 +5,5 @@ This adventure will put you into an adventure where you play as a well known Sup
 ---
 
 [Click here to begin.](breakingnews.md)
+
+Made by @matthewc0913 and @simrans4258
